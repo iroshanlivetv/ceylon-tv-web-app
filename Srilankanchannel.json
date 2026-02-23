@@ -60,7 +60,7 @@
 
     { 
       "id": "Swarnawahini",
-      "name": "Swarnavahini", 
+      "name": "Swarnawahini", 
       "group": "Local TV", 
       "logo": "https://ceyloniptv.gt.tc/wp-content/uploads/swarnavahini_lk.png", 
       "url": "https://swarnavahini.rumex.lk/live/OplTHNHgJtgwGPen/576p.m3u8" 
@@ -179,4 +179,5 @@
     }
   ]
 }
+
 
