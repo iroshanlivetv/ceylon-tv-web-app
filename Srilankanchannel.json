@@ -2,6 +2,7 @@
   "channels": [
 
     { 
+      "id": "Channel One",
       "name": "Channle One",
       "group": "Local TV", 
       "logo": "https://ceyloniptv.gt.tc/wp-content/uploads/001.png", 
@@ -34,3 +35,4 @@
 
   ]
 }
+
