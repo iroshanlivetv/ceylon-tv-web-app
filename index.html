@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="si">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>Dialog TV Style Live</title>
+    <meta name="theme-color" content="#000000">
+    
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdn.jwplayer.com/libraries/1uritdb6.js"></script>
+    
+    <style>
+        body { background: #000; color: #fff; margin:0; font-family: 'Inter', sans-serif; overflow-x: hidden; }
+        
+        /* Selected Channel Highlight */
+        .playing { 
+            border: 2px solid #ffffff !important; 
+            background: #1a1a1a !important;
+            border-radius: 12px;
+        }
+
+        .channel-card {
+            background: #0f0f0f;
+            transition: all 0.2s ease;
+            border: 2px solid transparent;
+            margin-bottom: 8px;
+        }
+
+        .channel-card:active { transform: scale(0.97); }
+
+        /* Custom Scrollbar */
+        ::-webkit-scrollbar { width: 4px; }
+        ::-webkit-scrollbar-thumb { background: #333; border-radius: 10px; }
+    </style>
+</head>
+<body class="min-h-screen pb-10">
+
+    <div class="p-4 flex justify-end items-center">
+        <img src="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Dialog_Axiata_logo.svg/1200px-Dialog_Axiata_logo.svg.png" class="h-6 opacity-80" alt="Dialog">
+    </div>
+
+    <div class="px-3">
+        <div id="jwplayer" class="w-full aspect-video bg-black rounded-2xl overflow-hidden shadow-2xl ring-1 ring-white/10"></div>
+    </div>
+
+    <div class="px-5 py-5">
+        <h2 id="currentChannel" class="text-2xl font-bold tracking-tight">චැනල් එකක් තෝරන්න</h2>
+        <p class="text-gray-500 text-sm mt-1">Live Streaming Now</p>
+    </div>
+
+    <div class="px-4 mb-6 sticky top-0 z-50 bg-black/80 backdrop-blur-md py-2">
+        <input type="text" id="search" placeholder="🔍 සොයන්න (Search)..." 
+               class="w-full p-4 rounded-xl bg-gray-900 border border-gray-800 text-white focus:outline-none focus:ring-2 focus:ring-gray-600 transition-all">
+    </div>
+
+    <div id="channelsContainer" class="px-4 space-y-2">
+        <div class="text-center py-20 opacity-40">
+            <div class="animate-pulse">Loading Channels...</div>
+        </div>
+    </div>
+
+<script>
+// ඔයාගේ JSON Link එක
+const JSON_URL = "https://raw.githubusercontent.com/iroshanlivetv/ceylon-tv-web-app/main/Srilankanchannel.json";
+
+let player = jwplayer("jwplayer").setup({
+    width: "100%", 
+    aspectratio: "16:9", 
+    stretching: "uniform", 
+    autostart: true, 
+    controls: true
+});
+
+let allChannels = [];
+let currentCard = null;
+
+// Fetch Data
+fetch(JSON_URL + "?v=" + Date.now())
+    .then(r => r.json())
+    .then(data => {
+        allChannels = data.channels || data;
+        renderChannels(allChannels);
+        
+        // පළවෙනි චැනල් එක auto play කරනවා
+        setTimeout(() => {
+            const first = document.querySelector('.channel-card');
+            if(first) first.click();
+        }, 1500);
+    });
+
+function renderChannels(list) {
+    const container = document.getElementById('channelsContainer');
+    container.innerHTML = '';
+
+    list.forEach((ch, index) => {
+        const name = ch.name || "Unknown Channel";
+        const logo = ch.logo || "";
+        const url = ch.url || "";
+        const type = ch.type || "";
+        const license = ch.license || "";
+
+        const card = document.createElement('div');
+        card.className = "channel-card flex items-center p-3 rounded-xl cursor-pointer";
+        
+        // Dialog TV style card structure
+        card.innerHTML = `
+            <div class="w-16 h-16 flex-shrink-0 bg-black rounded-lg overflow-hidden border border-gray-800 p-1">
+                <img src="${logo}" class="w-full h-full object-contain" onerror="this.src='https://via.placeholder.com/100/111/fff?text=TV'">
+            </div>
+            <div class="ml-4 flex-grow">
+                <h3 class="text-md font-bold text-gray-100">${name}</h3>
+                <p class="text-xs text-gray-500 mt-1">09:00 - 09:30</p>
+            </div>
+            <div class="pr-2 opacity-30">
+                <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="3" y1="12" x2="21" y2="12"></line><line x1="3" y1="6" x2="21" y2="6"></line><line x1="3" y1="18" x2="21" y2="18"></line></svg>
+            </div>
+        `;
+
+        card.onclick = (e) => playChannel(name, url, logo, type, license, card);
+        container.appendChild(card);
+    });
+}
+
+function playChannel(name, url, logo, type, license, cardElement) {
+    // UI Update
+    document.getElementById('currentChannel').textContent = name;
+    
+    document.querySelectorAll('.channel-card').forEach(c => c.classList.remove('playing'));
+    cardElement.classList.add('playing');
+
+    // Streaming Logic
+    if (type === "dash" && license) {
+        player.setup({
+            file: url, 
+            type: "dash",
+            drm: { widevine: { url: license }},
+            image: logo, 
+            title: name, 
+            autostart: true,
+            width: "100%",
+            aspectratio: "16:9"
+        });
+    } else {
+        player.load({ 
+            file: url, 
+            image: logo, 
+            title: name,
+            type: url.includes('.m3u8') ? 'hls' : (url.includes('.mpd') ? 'dash' : 'mp4')
+        });
+        player.play();
+    }
+
+    // Mobile Fullscreen check
+    if (window.innerWidth < 768) {
+        // setTimeout(() => player.setFullscreen(true), 1500); 
+    }
+}
+
+// Search Function
+document.getElementById('search').addEventListener('input', e => {
+    const q = e.target.value.toLowerCase();
+    const filtered = allChannels.filter(ch => (ch.name || "").toLowerCase().includes(q));
+    renderChannels(filtered);
+});
+
+</script>
+</body>
+</html>
