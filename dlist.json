@@ -1,7 +1,7 @@
 {
   "channels": [
     { 
-      "id": "1",
+      "id": "Channel 11",
       "name": "Channel One",
       "group": "Local TV", 
       "logo": "https://ceyloniptv.gt.tc/wp-content/uploads/001.png", 
@@ -210,6 +210,7 @@
     }
   ]
 }
+
 
 
 
