@@ -5,9 +5,9 @@
       "name": "Channel One",
       "group": "Local TV", 
       "logo": "https://ceyloniptv.gt.tc/wp-content/uploads/001.png", 
-      "url": "https://api.viulk.xyz/api/api/live/1",
+      "url": "https://bpcdncs2.dialog.lk/bpk-token/1aa@v1o52j4213thjldvl0mso34zte3w1kslcupv20da/GlobalManifest.mpd?bkm-query",
       "type": "dash",
-      "license": "https://api.viulk.xyz/api/api/license?id=1"
+      "license": "https://api.viulk.xyz/api/api/license"
     },
 
     { 
@@ -210,5 +210,6 @@
     }
   ]
 }
+
 
 
