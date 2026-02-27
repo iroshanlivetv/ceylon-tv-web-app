@@ -46,7 +46,7 @@
       "name": "Vasantham TV",
       "group": "Local TV", 
       "logo": "https://ceyloniptv.gt.tc/wp-content/uploads/Vasanthamtv_channel.jpg", 
-      "url": "https://mpdlive.ceyloniptv.workers.dev/?url=https://bpcdn.dialog.lk/bpk-tv/Ch005/out/index.mpd",
+      "url": "https://api.viulk.xyz/api/api/live/5",
       "type": "dash",
       "license": "https://api.viulk.xyz/api/api/license?id=5"
     },
@@ -80,9 +80,9 @@
       "name": "Shakthi TV",
       "group": "Local TV", 
       "logo": "https://ceyloniptv.gt.tc/wp-content/uploads/images.jpeg", 
-      "url": "https://mpd.ceyloniptv.workers.dev/viu.mpd/?id=9",
+      "url": "https://api.viulk.xyz/api/api/live/9",
       "type": "dash",
-      "license": "https://viu.ceyloniptv.workers.dev/license/?id=1&expires=177229"
+      "license": "https://api.viulk.xyz/api/api/license?id=9"
     },
 
     { 
