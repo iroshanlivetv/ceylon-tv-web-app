@@ -25,7 +25,7 @@
       "logo": "https://ceyloniptv.gt.tc/wp-content/uploads/2.png", 
       "url": "https://api.viulk.xyz/api/api/live/3",
       "type": "dash",
-      "license": "https://viu.ceyloniptv.workers.dev/license/?id=1&expires=177222"
+      "license": "https://api.viulk.xyz/api/api/license?id=3"
     },
 
 
@@ -210,4 +210,5 @@
     }
   ]
 }
+
 
