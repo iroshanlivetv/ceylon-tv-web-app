@@ -1,6 +1,6 @@
 [
   {
-    "id": "channelone",
+    "id": "Channel One",
     "channel": "Channel One",
     "channelImage": "https://api3.viu.lk/api/client/v1/global/images/22849?accessKey=WkVjNWNscFhORDBLCg==",
     "type": "IPTV",
@@ -15,7 +15,7 @@
     "manifest": "https://api.viulk.xyz/api/api/client/v1/default/users/69/live/channels/channelone"
   },
   {
-    "id": "rupavahini",
+    "id": "Rupavahini",
     "channel": "Rupavahini",
     "channelImage": "https://api3.viu.lk/api/client/v1/global/images/22813?accessKey=WkVjNWNscFhORDBLCg==",
     "type": "IPTV",
@@ -30,7 +30,7 @@
     "manifest": "https://api.viulk.xyz/api/api/client/v1/default/users/69/live/channels/rupavahini"
   },
   {
-    "id": "nethratv",
+    "id": "Nethra TV",
     "channel": "Nethra TV",
     "channelImage": "https://api3.viu.lk/api/client/v1/global/images/31371?accessKey=WkVjNWNscFhORDBLCg==",
     "type": "IPTV",
@@ -45,7 +45,7 @@
     "manifest": "https://api.viulk.xyz/api/api/client/v1/default/users/69/live/channels/nethratv"
   },
   {
-    "id": "itn",
+    "id": "ITN",
     "channel": "ITN",
     "channelImage": "https://api3.viu.lk/api/client/v1/global/images/22850?accessKey=WkVjNWNscFhORDBLCg==",
     "type": "IPTV",
@@ -60,7 +60,7 @@
     "manifest": "https://api.viulk.xyz/api/api/client/v1/default/users/69/live/channels/itn"
   },
   {
-    "id": "vasanthamtv",
+    "id": "Vasantham TV",
     "channel": "Vasantham TV",
     "channelImage": "https://api3.viu.lk/api/client/v1/global/images/14298?accessKey=WkVjNWNscFhORDBLCg==",
     "type": "IPTV",
@@ -75,7 +75,7 @@
     "manifest": "https://api.viulk.xyz/api/api/client/v1/default/users/69/live/channels/vasanthamtv"
   },
   {
-    "id": "tvderana",
+    "id": "TV Derana",
     "channel": "TV Derana",
     "channelImage": "https://api3.viu.lk/api/client/v1/global/images/22839?accessKey=WkVjNWNscFhORDBLCg==",
     "type": "IPTV",
@@ -90,7 +90,7 @@
     "manifest": "https://api.viulk.xyz/api/api/client/v1/default/users/69/live/channels/tvderana"
   },
   {
-    "id": "swarnavahini",
+    "id": "Swarnawahini",
     "channel": "Swarnavahini",
     "channelImage": "https://api3.viu.lk/api/client/v1/global/images/22848?accessKey=WkVjNWNscFhORDBLCg==",
     "type": "IPTV",
@@ -105,7 +105,7 @@
     "manifest": "https://api.viulk.xyz/api/api/client/v1/default/users/69/live/channels/swarnavahini"
   },
   {
-    "id": "sirasatv",
+    "id": "Sirasa TV",
     "channel": "Sirasa TV",
     "channelImage": "https://api3.viu.lk/api/client/v1/global/images/11105?accessKey=WkVjNWNscFhORDBLCg==",
     "type": "IPTV",
@@ -120,7 +120,7 @@
     "manifest": "https://api.viulk.xyz/api/api/client/v1/default/users/69/live/channels/sirasatv"
   },
   {
-    "id": "shakthitv",
+    "id": "Shakthi TV",
     "channel": "Shakthi TV",
     "channelImage": "https://api3.viu.lk/api/client/v1/global/images/22847?accessKey=WkVjNWNscFhORDBLCg==",
     "type": "IPTV",
@@ -2010,3 +2010,4 @@
     "manifest": "https://api.viulk.xyz/api/api/client/v1/default/users/69/live/channels/colorsrishty"
   }
 ]
+
