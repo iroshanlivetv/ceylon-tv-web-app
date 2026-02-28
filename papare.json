@@ -52,7 +52,7 @@
     "epgID": "62",
     "category": "Sports",
     "realepgId": 2126,
-    "title": "Replay -  ICC Men's T20 World Cup 2026",
+    "title": "Replay - ICC Men's T20 World Cup 2026",
     "thumbnail": "https://api3.viu.lk/api/client/v1/global/images/733819?accessKey=WkVjNWNscFhORDBLCg==",
     "views": "0 views",
     "time": "LIVE",
@@ -73,9 +73,5 @@
     "time": "LIVE",
     "isLive": true,
     "manifest": "https://api.viulk.xyz/api/api/client/v1/default/users/69/live/channels/paparesd"
-  },
-  
+  }
 ]
-
-
-
