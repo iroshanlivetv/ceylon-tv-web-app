@@ -1,0 +1,443 @@
+[
+  {
+    "id": "channelone",
+    "channel": "Channel One",
+    "category": "Local",
+    "type": "IPTV",
+    "manifest": "https://api.viulk.xyz/api/api/client/v1/default/users/69/live/channels/channelone"
+  },
+  {
+    "id": "rupavahini",
+    "channel": "Rupavahini",
+    "category": "Local",
+    "type": "IPTV",
+    "manifest": "https://api.viulk.xyz/api/api/client/v1/default/users/69/live/channels/rupavahini"
+  },
+  {
+    "id": "nethratv",
+    "channel": "Nethra TV",
+    "category": "Local",
+    "type": "IPTV",
+    "manifest": "https://api.viulk.xyz/api/api/client/v1/default/users/69/live/channels/nethratv"
+  },
+  {
+    "id": "itn",
+    "channel": "ITN",
+    "category": "Local",
+    "type": "IPTV",
+    "manifest": "https://api.viulk.xyz/api/api/client/v1/default/users/69/live/channels/itn"
+  },
+  {
+    "id": "vasanthamtv",
+    "channel": "Vasantham TV",
+    "category": "Local",
+    "type": "IPTV",
+    "manifest": "https://api.viulk.xyz/api/api/client/v1/default/users/69/live/channels/vasanthamtv"
+  },
+  {
+    "id": "tvderana",
+    "channel": "TV Derana",
+    "category": "Local",
+    "type": "IPTV",
+    "manifest": "https://api.viulk.xyz/api/api/client/v1/default/users/69/live/channels/tvderana"
+  },
+  {
+    "id": "swarnavahini",
+    "channel": "Swarnavahini",
+    "category": "Local",
+    "type": "IPTV",
+    "manifest": "https://api.viulk.xyz/api/api/client/v1/default/users/69/live/channels/swarnavahini"
+  },
+  {
+    "id": "sirasatv",
+    "channel": "Sirasa TV",
+    "category": "Local",
+    "type": "IPTV",
+    "manifest": "https://api.viulk.xyz/api/api/client/v1/default/users/69/live/channels/sirasatv"
+  },
+  {
+    "id": "shakthitv",
+    "channel": "Shakthi TV",
+    "category": "Local",
+    "type": "IPTV",
+    "manifest": "https://api.viulk.xyz/api/api/client/v1/default/users/69/live/channels/shakthitv"
+  },
+  {
+    "id": "tv1",
+    "channel": "TV 1",
+    "category": "Local",
+    "type": "IPTV",
+    "manifest": "https://api.viulk.xyz/api/api/client/v1/default/users/69/live/channels/tv1"
+  },
+  {
+    "id": "hirutv",
+    "channel": "Hiru TV",
+    "category": "Local",
+    "type": "IPTV",
+    "manifest": "https://api.viulk.xyz/api/api/client/v1/default/users/69/live/channels/hirutv"
+  },
+  {
+    "id": "supreme",
+    "channel": "TV Supreme",
+    "category": "Local",
+    "type": "IPTV",
+    "manifest": "https://api.viulk.xyz/api/api/client/v1/default/users/69/live/channels/supreme"
+  },
+  {
+    "id": "arttelevision",
+    "channel": "ART Television",
+    "category": "Local",
+    "type": "IPTV",
+    "manifest": "https://api.viulk.xyz/api/api/client/v1/default/users/69/live/channels/arttelevision"
+  },
+  {
+    "id": "adaderana24",
+    "channel": "Ada Derana 24",
+    "category": "Local",
+    "type": "IPTV",
+    "manifest": "https://api.viulk.xyz/api/api/client/v1/default/users/69/live/channels/adaderana24"
+  },
+  {
+    "id": "siyathatv",
+    "channel": "Siyatha TV",
+    "category": "Local",
+    "type": "IPTV",
+    "manifest": "https://api.viulk.xyz/api/api/client/v1/default/users/69/live/channels/siyathatv"
+  },
+  {
+    "id": "harithatv",
+    "channel": "Haritha TV",
+    "category": "Local",
+    "type": "IPTV",
+    "manifest": "https://api.viulk.xyz/api/api/client/v1/default/users/69/live/channels/harithatv"
+  },
+  {
+    "id": "tvdidula",
+    "channel": "TV Didula",
+    "category": "Local",
+    "type": "IPTV",
+    "manifest": "https://api.viulk.xyz/api/api/client/v1/default/users/69/live/channels/tvdidula"
+  },
+  {
+    "id": "rideetv",
+    "channel": "Ridee TV",
+    "category": "Local",
+    "type": "IPTV",
+    "manifest": "https://api.viulk.xyz/api/api/client/v1/default/users/69/live/channels/rideetv"
+  },
+  {
+    "id": "citihitz",
+    "channel": "Citi Hitz",
+    "category": "Local",
+    "type": "IPTV",
+    "manifest": "https://api.viulk.xyz/api/api/client/v1/default/users/69/live/channels/citihitz"
+  },
+  {
+    "id": "channel20",
+    "channel": "Channel 20",
+    "category": "Local",
+    "type": "IPTV",
+    "manifest": "https://api.viulk.xyz/api/api/client/v1/default/users/69/live/channels/channel20"
+  },
+  {
+    "id": "rangiri",
+    "channel": "Rangiri Sri Lanka",
+    "category": "Local",
+    "type": "IPTV",
+    "manifest": "https://api.viulk.xyz/api/api/client/v1/default/users/69/live/channels/rangiri"
+  },
+  {
+    "id": "hitv",
+    "channel": "Hi TV",
+    "category": "Local",
+    "type": "IPTV",
+    "manifest": "https://api.viulk.xyz/api/api/client/v1/default/users/69/live/channels/hitv"
+  },
+  {
+    "id": "pragna",
+    "channel": "Pragna TV",
+    "category": "Local",
+    "type": "IPTV",
+    "manifest": "https://api.viulk.xyz/api/api/client/v1/default/users/69/live/channels/pragna"
+  },
+  {
+    "id": "damsathara",
+    "channel": "Damsathara TV",
+    "category": "Local",
+    "type": "IPTV",
+    "manifest": "https://api.viulk.xyz/api/api/client/v1/default/users/69/live/channels/damsathara"
+  },
+  {
+    "id": "jayatv",
+    "channel": "Jaya TV",
+    "category": "Local",
+    "type": "IPTV",
+    "manifest": "https://api.viulk.xyz/api/api/client/v1/default/users/69/live/channels/jayatv"
+  },
+  {
+    "id": "buddhisttv",
+    "channel": "The Buddhist TV",
+    "category": "Local",
+    "type": "IPTV",
+    "manifest": "https://api.viulk.xyz/api/api/client/v1/default/users/69/live/channels/buddhisttv"
+  },
+  {
+    "id": "shraddhatv",
+    "channel": "Shraddha TV",
+    "category": "Local",
+    "type": "IPTV",
+    "manifest": "https://api.viulk.xyz/api/api/client/v1/default/users/69/live/channels/shraddhatv"
+  },
+  {
+    "id": "godtv",
+    "channel": "GOD TV",
+    "category": "Local",
+    "type": "IPTV",
+    "manifest": "https://api.viulk.xyz/api/api/client/v1/default/users/69/live/channels/godtv"
+  },
+  {
+    "id": "ewtn",
+    "channel": "Verbum TV",
+    "category": "Local",
+    "type": "IPTV",
+    "manifest": "https://api.viulk.xyz/api/api/client/v1/default/users/69/live/channels/ewtn"
+  },
+  {
+    "id": "aljazeera",
+    "channel": "Al Jazeera",
+    "category": "Local",
+    "type": "IPTV",
+    "manifest": "https://api.viulk.xyz/api/api/client/v1/default/users/69/live/channels/aljazeera"
+  },
+  {
+    "id": "abcaustralia",
+    "channel": "ABC Australia",
+    "category": "News",
+    "type": "IPTV",
+    "manifest": "https://api.viulk.xyz/api/api/client/v1/default/users/69/live/channels/abcaustralia"
+  },
+  {
+    "id": "bbcworld",
+    "channel": "BBC World",
+    "category": "News",
+    "type": "IPTV",
+    "manifest": "https://api.viulk.xyz/api/api/client/v1/default/users/69/live/channels/bbcworld"
+  },
+  {
+    "id": "CGTN",
+    "channel": "CGTN",
+    "category": "News",
+    "type": "IPTV",
+    "manifest": "https://api.viulk.xyz/api/api/client/v1/default/users/69/live/channels/CGTN"
+  },
+  {
+    "id": "cnn",
+    "channel": "CNN",
+    "category": "News",
+    "type": "IPTV",
+    "manifest": "https://api.viulk.xyz/api/api/client/v1/default/users/69/live/channels/cnn"
+  },
+  {
+    "id": "ndtv",
+    "channel": "NDTV",
+    "category": "News",
+    "type": "IPTV",
+    "manifest": "https://api.viulk.xyz/api/api/client/v1/default/users/69/live/channels/ndtv"
+  },
+  {
+    "id": "france24",
+    "channel": "France 24",
+    "category": "News",
+    "type": "IPTV",
+    "manifest": "https://api.viulk.xyz/api/api/client/v1/default/users/69/live/channels/france24"
+  },
+  {
+    "id": "euronews",
+    "channel": "Euro News",
+    "category": "News",
+    "type": "IPTV",
+    "manifest": "https://api.viulk.xyz/api/api/client/v1/default/users/69/live/channels/euronews"
+  },
+  {
+    "id": "bloomberg",
+    "channel": "Bloomberg",
+    "category": "Other",
+    "type": "IPTV",
+    "manifest": "https://api.viulk.xyz/api/api/client/v1/default/users/69/live/channels/bloomberg"
+  },
+  {
+    "id": "cnbc",
+    "channel": "CNBC",
+    "category": "Other",
+    "type": "IPTV",
+    "manifest": "https://api.viulk.xyz/api/api/client/v1/default/users/69/live/channels/cnbc"
+  },
+  {
+    "id": "B4UMusic",
+    "channel": "B4U Music",
+    "category": "Music",
+    "type": "IPTV",
+    "manifest": "https://api.viulk.xyz/api/api/client/v1/default/users/69/live/channels/B4UMusic"
+  },
+  {
+    "id": "romantico",
+    "channel": "MTV 90s",
+    "category": "Music",
+    "type": "IPTV",
+    "manifest": "https://api.viulk.xyz/api/api/client/v1/default/users/69/live/channels/romantico"
+  },
+  {
+    "id": "channelc",
+    "channel": "Channel C",
+    "category": "Other",
+    "type": "IPTV",
+    "manifest": "https://api.viulk.xyz/api/api/client/v1/default/users/69/live/channels/channelc"
+  },
+  {
+    "id": "jayamax",
+    "channel": "Jaya Max",
+    "category": "Other",
+    "type": "IPTV",
+    "manifest": "https://api.viulk.xyz/api/api/client/v1/default/users/69/live/channels/jayamax"
+  },
+  {
+    "id": "zingtv",
+    "channel": "Zing TV",
+    "category": "Other",
+    "type": "IPTV",
+    "manifest": "https://api.viulk.xyz/api/api/client/v1/default/users/69/live/channels/zingtv"
+  },
+  {
+    "id": "davinci",
+    "channel": "Da Vinci",
+    "category": "Kids",
+    "type": "IPTV",
+    "manifest": "https://api.viulk.xyz/api/api/client/v1/default/users/69/live/channels/davinci"
+  },
+  {
+    "id": "cbeebies",
+    "channel": "CBeebies",
+    "category": "Kids",
+    "type": "IPTV",
+    "manifest": "https://api.viulk.xyz/api/api/client/v1/default/users/69/live/channels/cbeebies"
+  },
+  {
+    "id": "cartoonnetwork",
+    "channel": "Cartoon Network",
+    "category": "Kids",
+    "type": "IPTV",
+    "manifest": "https://api.viulk.xyz/api/api/client/v1/default/users/69/live/channels/cartoonnetwork"
+  },
+  {
+    "id": "aplus",
+    "channel": "A Plus Kids TV",
+    "category": "Kids",
+    "type": "IPTV",
+    "manifest": "https://api.viulk.xyz/api/api/client/v1/default/users/69/live/channels/aplus"
+  },
+  {
+    "id": "nickelodeon",
+    "channel": "Nickelodeon",
+    "category": "Kids",
+    "type": "IPTV",
+    "manifest": "https://api.viulk.xyz/api/api/client/v1/default/users/69/live/channels/nickelodeon"
+  },
+  {
+    "id": "babytv",
+    "channel": "Baby TV",
+    "category": "Kids",
+    "type": "IPTV",
+    "manifest": "https://api.viulk.xyz/api/api/client/v1/default/users/69/live/channels/babytv"
+  },
+  {
+    "id": "disneyjr",
+    "channel": "Disney Jr",
+    "category": "Kids",
+    "type": "IPTV",
+    "manifest": "https://api.viulk.xyz/api/api/client/v1/default/users/69/live/channels/disneyjr"
+  },
+  {
+    "id": "nickjr",
+    "channel": "Nick Jr",
+    "category": "Kids",
+    "type": "IPTV",
+    "manifest": "https://api.viulk.xyz/api/api/client/v1/default/users/69/live/channels/nickjr"
+  },
+  {
+    "id": "moonbug",
+    "channel": "Moonbug",
+    "category": "Kids",
+    "type": "IPTV",
+    "manifest": "https://api.viulk.xyz/api/api/client/v1/default/users/69/live/channels/moonbug"
+  },
+  {
+    "id": "pogo",
+    "channel": "Pogo",
+    "category": "Kids",
+    "type": "IPTV",
+    "manifest": "https://api.viulk.xyz/api/api/client/v1/default/users/69/live/channels/pogo"
+  },
+  {
+    "id": "animalplanet",
+    "channel": "Animal Planet",
+    "category": "Other",
+    "type": "IPTV",
+    "manifest": "https://api.viulk.xyz/api/api/client/v1/default/users/69/live/channels/animalplanet"
+  },
+  {
+    "id": "discovery",
+    "channel": "Discovery",
+    "category": "Other",
+    "type": "IPTV",
+    "manifest": "https://api.viulk.xyz/api/api/client/v1/default/users/69/live/channels/discovery"
+  },
+  {
+    "id": "discoveryscience",
+    "channel": "Discovery Science",
+    "category": "Other",
+    "type": "IPTV",
+    "manifest": "https://api.viulk.xyz/api/api/client/v1/default/users/69/live/channels/discoveryscience"
+  },
+  {
+    "id": "tlc",
+    "channel": "TLC",
+    "category": "Other",
+    "type": "IPTV",
+    "manifest": "https://api.viulk.xyz/api/api/client/v1/default/users/69/live/channels/tlc"
+  },
+  {
+    "id": "natgeo",
+    "channel": "National Geographic",
+    "category": "Other",
+    "type": "IPTV",
+    "manifest": "https://api.viulk.xyz/api/api/client/v1/default/users/69/live/channels/natgeo"
+  },
+  {
+    "id": "natgeowild",
+    "channel": "Nat Geo Wild",
+    "category": "Other",
+    "type": "IPTV",
+    "manifest": "https://api.viulk.xyz/api/api/client/v1/default/users/69/live/channels/natgeowild"
+  },
+  {
+    "id": "raiitalia",
+    "channel": "Rai Italia",
+    "category": "Other",
+    "type": "IPTV",
+    "manifest": "https://api.viulk.xyz/api/api/client/v1/default/users/69/live/channels/raiitalia"
+  },
+  {
+    "id": "phoenixinfo",
+    "channel": "Phoenix Info News",
+    "category": "News",
+    "type": "IPTV",
+    "manifest": "https://api.viulk.xyz/api/api/client/v1/default/users/69/live/channels/phoenixinfo"
+  },
+  {
+    "id": "tv5monde",
+    "channel": "TV5 Monde Asie",
+    "category": "Other",
+    "type": "IPTV",
+    "manifest": "https://api.viulk.xyz/api/api/client/v1/default/users/69/live/channels/tv5monde"
+  }
+]
