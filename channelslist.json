@@ -2,6 +2,7 @@
   {
     "id": "channelone",
     "channel": "Channel One",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/22849?accessKey=WkVjNWNscFhORDBLCg==",
     "category": "Local",
     "type": "IPTV",
     "manifest": "https://api.viulk.xyz/api/api/client/v1/default/users/69/live/channels/channelone"
@@ -9,6 +10,7 @@
   {
     "id": "rupavahini",
     "channel": "Rupavahini",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/22813?accessKey=WkVjNWNscFhORDBLCg==",
     "category": "Local",
     "type": "IPTV",
     "manifest": "https://api.viulk.xyz/api/api/client/v1/default/users/69/live/channels/rupavahini"
@@ -16,6 +18,7 @@
   {
     "id": "nethratv",
     "channel": "Nethra TV",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/31371?accessKey=WkVjNWNscFhORDBLCg==",
     "category": "Local",
     "type": "IPTV",
     "manifest": "https://api.viulk.xyz/api/api/client/v1/default/users/69/live/channels/nethratv"
@@ -23,6 +26,7 @@
   {
     "id": "itn",
     "channel": "ITN",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/22850?accessKey=WkVjNWNscFhORDBLCg==",
     "category": "Local",
     "type": "IPTV",
     "manifest": "https://api.viulk.xyz/api/api/client/v1/default/users/69/live/channels/itn"
@@ -30,6 +34,7 @@
   {
     "id": "vasanthamtv",
     "channel": "Vasantham TV",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/14298?accessKey=WkVjNWNscFhORDBLCg==",
     "category": "Local",
     "type": "IPTV",
     "manifest": "https://api.viulk.xyz/api/api/client/v1/default/users/69/live/channels/vasanthamtv"
@@ -37,6 +42,7 @@
   {
     "id": "tvderana",
     "channel": "TV Derana",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/22839?accessKey=WkVjNWNscFhORDBLCg==",
     "category": "Local",
     "type": "IPTV",
     "manifest": "https://api.viulk.xyz/api/api/client/v1/default/users/69/live/channels/tvderana"
@@ -44,6 +50,7 @@
   {
     "id": "swarnavahini",
     "channel": "Swarnavahini",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/22848?accessKey=WkVjNWNscFhORDBLCg==",
     "category": "Local",
     "type": "IPTV",
     "manifest": "https://api.viulk.xyz/api/api/client/v1/default/users/69/live/channels/swarnavahini"
@@ -51,6 +58,7 @@
   {
     "id": "sirasatv",
     "channel": "Sirasa TV",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/11105?accessKey=WkVjNWNscFhORDBLCg==",
     "category": "Local",
     "type": "IPTV",
     "manifest": "https://api.viulk.xyz/api/api/client/v1/default/users/69/live/channels/sirasatv"
@@ -58,6 +66,7 @@
   {
     "id": "shakthitv",
     "channel": "Shakthi TV",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/22847?accessKey=WkVjNWNscFhORDBLCg==",
     "category": "Local",
     "type": "IPTV",
     "manifest": "https://api.viulk.xyz/api/api/client/v1/default/users/69/live/channels/shakthitv"
@@ -65,6 +74,7 @@
   {
     "id": "tv1",
     "channel": "TV 1",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/11103?accessKey=WkVjNWNscFhORDBLCg==",
     "category": "Local",
     "type": "IPTV",
     "manifest": "https://api.viulk.xyz/api/api/client/v1/default/users/69/live/channels/tv1"
@@ -72,6 +82,7 @@
   {
     "id": "hirutv",
     "channel": "Hiru TV",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/22838?accessKey=WkVjNWNscFhORDBLCg==",
     "category": "Local",
     "type": "IPTV",
     "manifest": "https://api.viulk.xyz/api/api/client/v1/default/users/69/live/channels/hirutv"
@@ -79,6 +90,7 @@
   {
     "id": "supreme",
     "channel": "TV Supreme",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/174525?accessKey=WkVjNWNscFhORDBLCg==",
     "category": "Local",
     "type": "IPTV",
     "manifest": "https://api.viulk.xyz/api/api/client/v1/default/users/69/live/channels/supreme"
@@ -86,6 +98,7 @@
   {
     "id": "arttelevision",
     "channel": "ART Television",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/23064?accessKey=WkVjNWNscFhORDBLCg==",
     "category": "Local",
     "type": "IPTV",
     "manifest": "https://api.viulk.xyz/api/api/client/v1/default/users/69/live/channels/arttelevision"
@@ -93,6 +106,7 @@
   {
     "id": "adaderana24",
     "channel": "Ada Derana 24",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/23063?accessKey=WkVjNWNscFhORDBLCg==",
     "category": "Local",
     "type": "IPTV",
     "manifest": "https://api.viulk.xyz/api/api/client/v1/default/users/69/live/channels/adaderana24"
@@ -100,6 +114,7 @@
   {
     "id": "siyathatv",
     "channel": "Siyatha TV",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/22837?accessKey=WkVjNWNscFhORDBLCg==",
     "category": "Local",
     "type": "IPTV",
     "manifest": "https://api.viulk.xyz/api/api/client/v1/default/users/69/live/channels/siyathatv"
@@ -107,6 +122,7 @@
   {
     "id": "harithatv",
     "channel": "Haritha TV",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/22842?accessKey=WkVjNWNscFhORDBLCg==",
     "category": "Local",
     "type": "IPTV",
     "manifest": "https://api.viulk.xyz/api/api/client/v1/default/users/69/live/channels/harithatv"
@@ -114,6 +130,7 @@
   {
     "id": "tvdidula",
     "channel": "TV Didula",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/22840?accessKey=WkVjNWNscFhORDBLCg==",
     "category": "Local",
     "type": "IPTV",
     "manifest": "https://api.viulk.xyz/api/api/client/v1/default/users/69/live/channels/tvdidula"
@@ -121,6 +138,7 @@
   {
     "id": "rideetv",
     "channel": "Ridee TV",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/9590?accessKey=WkVjNWNscFhORDBLCg==",
     "category": "Local",
     "type": "IPTV",
     "manifest": "https://api.viulk.xyz/api/api/client/v1/default/users/69/live/channels/rideetv"
@@ -128,6 +146,7 @@
   {
     "id": "citihitz",
     "channel": "Citi Hitz",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/22841?accessKey=WkVjNWNscFhORDBLCg==",
     "category": "Local",
     "type": "IPTV",
     "manifest": "https://api.viulk.xyz/api/api/client/v1/default/users/69/live/channels/citihitz"
@@ -135,6 +154,7 @@
   {
     "id": "channel20",
     "channel": "Channel 20",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/81676?accessKey=WkVjNWNscFhORDBLCg==",
     "category": "Local",
     "type": "IPTV",
     "manifest": "https://api.viulk.xyz/api/api/client/v1/default/users/69/live/channels/channel20"
@@ -142,6 +162,7 @@
   {
     "id": "rangiri",
     "channel": "Rangiri Sri Lanka",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/22844?accessKey=WkVjNWNscFhORDBLCg==",
     "category": "Local",
     "type": "IPTV",
     "manifest": "https://api.viulk.xyz/api/api/client/v1/default/users/69/live/channels/rangiri"
@@ -149,6 +170,7 @@
   {
     "id": "hitv",
     "channel": "Hi TV",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/22845?accessKey=WkVjNWNscFhORDBLCg==",
     "category": "Local",
     "type": "IPTV",
     "manifest": "https://api.viulk.xyz/api/api/client/v1/default/users/69/live/channels/hitv"
@@ -156,6 +178,7 @@
   {
     "id": "pragna",
     "channel": "Pragna TV",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/22846?accessKey=WkVjNWNscFhORDBLCg==",
     "category": "Local",
     "type": "IPTV",
     "manifest": "https://api.viulk.xyz/api/api/client/v1/default/users/69/live/channels/pragna"
@@ -163,6 +186,7 @@
   {
     "id": "damsathara",
     "channel": "Damsathara TV",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/23062?accessKey=WkVjNWNscFhORDBLCg==",
     "category": "Local",
     "type": "IPTV",
     "manifest": "https://api.viulk.xyz/api/api/client/v1/default/users/69/live/channels/damsathara"
@@ -170,6 +194,7 @@
   {
     "id": "jayatv",
     "channel": "Jaya TV",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/20252?accessKey=WkVjNWNscFhORDBLCg==",
     "category": "Local",
     "type": "IPTV",
     "manifest": "https://api.viulk.xyz/api/api/client/v1/default/users/69/live/channels/jayatv"
@@ -177,6 +202,7 @@
   {
     "id": "buddhisttv",
     "channel": "The Buddhist TV",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/23082?accessKey=WkVjNWNscFhORDBLCg==",
     "category": "Local",
     "type": "IPTV",
     "manifest": "https://api.viulk.xyz/api/api/client/v1/default/users/69/live/channels/buddhisttv"
@@ -184,6 +210,7 @@
   {
     "id": "shraddhatv",
     "channel": "Shraddha TV",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/20253?accessKey=WkVjNWNscFhORDBLCg==",
     "category": "Local",
     "type": "IPTV",
     "manifest": "https://api.viulk.xyz/api/api/client/v1/default/users/69/live/channels/shraddhatv"
@@ -191,6 +218,7 @@
   {
     "id": "godtv",
     "channel": "GOD TV",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/23074?accessKey=WkVjNWNscFhORDBLCg==",
     "category": "Local",
     "type": "IPTV",
     "manifest": "https://api.viulk.xyz/api/api/client/v1/default/users/69/live/channels/godtv"
@@ -198,6 +226,7 @@
   {
     "id": "ewtn",
     "channel": "Verbum TV",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/23073?accessKey=WkVjNWNscFhORDBLCg==",
     "category": "Local",
     "type": "IPTV",
     "manifest": "https://api.viulk.xyz/api/api/client/v1/default/users/69/live/channels/ewtn"
@@ -205,6 +234,7 @@
   {
     "id": "aljazeera",
     "channel": "Al Jazeera",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/13846?accessKey=WkVjNWNscFhORDBLCg==",
     "category": "Local",
     "type": "IPTV",
     "manifest": "https://api.viulk.xyz/api/api/client/v1/default/users/69/live/channels/aljazeera"
@@ -212,6 +242,7 @@
   {
     "id": "abcaustralia",
     "channel": "ABC Australia",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/23061?accessKey=WkVjNWNscFhORDBLCg==",
     "category": "News",
     "type": "IPTV",
     "manifest": "https://api.viulk.xyz/api/api/client/v1/default/users/69/live/channels/abcaustralia"
@@ -219,6 +250,7 @@
   {
     "id": "bbcworld",
     "channel": "BBC World",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/23060?accessKey=WkVjNWNscFhORDBLCg==",
     "category": "News",
     "type": "IPTV",
     "manifest": "https://api.viulk.xyz/api/api/client/v1/default/users/69/live/channels/bbcworld"
@@ -226,6 +258,7 @@
   {
     "id": "CGTN",
     "channel": "CGTN",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/23059?accessKey=WkVjNWNscFhORDBLCg==",
     "category": "News",
     "type": "IPTV",
     "manifest": "https://api.viulk.xyz/api/api/client/v1/default/users/69/live/channels/CGTN"
@@ -233,6 +266,7 @@
   {
     "id": "cnn",
     "channel": "CNN",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/23069?accessKey=WkVjNWNscFhORDBLCg==",
     "category": "News",
     "type": "IPTV",
     "manifest": "https://api.viulk.xyz/api/api/client/v1/default/users/69/live/channels/cnn"
@@ -240,6 +274,7 @@
   {
     "id": "ndtv",
     "channel": "NDTV",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/23067?accessKey=WkVjNWNscFhORDBLCg==",
     "category": "News",
     "type": "IPTV",
     "manifest": "https://api.viulk.xyz/api/api/client/v1/default/users/69/live/channels/ndtv"
@@ -247,6 +282,7 @@
   {
     "id": "france24",
     "channel": "France 24",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/20263?accessKey=WkVjNWNscFhORDBLCg==",
     "category": "News",
     "type": "IPTV",
     "manifest": "https://api.viulk.xyz/api/api/client/v1/default/users/69/live/channels/france24"
@@ -254,6 +290,7 @@
   {
     "id": "euronews",
     "channel": "Euro News",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/23057?accessKey=WkVjNWNscFhORDBLCg==",
     "category": "News",
     "type": "IPTV",
     "manifest": "https://api.viulk.xyz/api/api/client/v1/default/users/69/live/channels/euronews"
@@ -261,6 +298,7 @@
   {
     "id": "bloomberg",
     "channel": "Bloomberg",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/23056?accessKey=WkVjNWNscFhORDBLCg==",
     "category": "Other",
     "type": "IPTV",
     "manifest": "https://api.viulk.xyz/api/api/client/v1/default/users/69/live/channels/bloomberg"
@@ -268,6 +306,7 @@
   {
     "id": "cnbc",
     "channel": "CNBC",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/22803?accessKey=WkVjNWNscFhORDBLCg==",
     "category": "Other",
     "type": "IPTV",
     "manifest": "https://api.viulk.xyz/api/api/client/v1/default/users/69/live/channels/cnbc"
@@ -275,6 +314,7 @@
   {
     "id": "B4UMusic",
     "channel": "B4U Music",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/22790?accessKey=WkVjNWNscFhORDBLCg==",
     "category": "Music",
     "type": "IPTV",
     "manifest": "https://api.viulk.xyz/api/api/client/v1/default/users/69/live/channels/B4UMusic"
@@ -282,6 +322,7 @@
   {
     "id": "romantico",
     "channel": "MTV 90s",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/161764?accessKey=WkVjNWNscFhORDBLCg==",
     "category": "Music",
     "type": "IPTV",
     "manifest": "https://api.viulk.xyz/api/api/client/v1/default/users/69/live/channels/romantico"
@@ -289,6 +330,7 @@
   {
     "id": "channelc",
     "channel": "Channel C",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/20268?accessKey=WkVjNWNscFhORDBLCg==",
     "category": "Other",
     "type": "IPTV",
     "manifest": "https://api.viulk.xyz/api/api/client/v1/default/users/69/live/channels/channelc"
@@ -296,6 +338,7 @@
   {
     "id": "jayamax",
     "channel": "Jaya Max",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/185456?accessKey=WkVjNWNscFhORDBLCg==",
     "category": "Other",
     "type": "IPTV",
     "manifest": "https://api.viulk.xyz/api/api/client/v1/default/users/69/live/channels/jayamax"
@@ -303,6 +346,7 @@
   {
     "id": "zingtv",
     "channel": "Zing TV",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/175281?accessKey=WkVjNWNscFhORDBLCg==",
     "category": "Other",
     "type": "IPTV",
     "manifest": "https://api.viulk.xyz/api/api/client/v1/default/users/69/live/channels/zingtv"
@@ -310,6 +354,7 @@
   {
     "id": "davinci",
     "channel": "Da Vinci",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/22800?accessKey=WkVjNWNscFhORDBLCg==",
     "category": "Kids",
     "type": "IPTV",
     "manifest": "https://api.viulk.xyz/api/api/client/v1/default/users/69/live/channels/davinci"
@@ -317,6 +362,7 @@
   {
     "id": "cbeebies",
     "channel": "CBeebies",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/22795?accessKey=WkVjNWNscFhORDBLCg==",
     "category": "Kids",
     "type": "IPTV",
     "manifest": "https://api.viulk.xyz/api/api/client/v1/default/users/69/live/channels/cbeebies"
@@ -324,6 +370,7 @@
   {
     "id": "cartoonnetwork",
     "channel": "Cartoon Network",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/22794?accessKey=WkVjNWNscFhORDBLCg==",
     "category": "Kids",
     "type": "IPTV",
     "manifest": "https://api.viulk.xyz/api/api/client/v1/default/users/69/live/channels/cartoonnetwork"
@@ -331,6 +378,7 @@
   {
     "id": "aplus",
     "channel": "A Plus Kids TV",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/23054?accessKey=WkVjNWNscFhORDBLCg==",
     "category": "Kids",
     "type": "IPTV",
     "manifest": "https://api.viulk.xyz/api/api/client/v1/default/users/69/live/channels/aplus"
@@ -338,6 +386,7 @@
   {
     "id": "nickelodeon",
     "channel": "Nickelodeon",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/13844?accessKey=WkVjNWNscFhORDBLCg==",
     "category": "Kids",
     "type": "IPTV",
     "manifest": "https://api.viulk.xyz/api/api/client/v1/default/users/69/live/channels/nickelodeon"
@@ -345,6 +394,7 @@
   {
     "id": "babytv",
     "channel": "Baby TV",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/22796?accessKey=WkVjNWNscFhORDBLCg==",
     "category": "Kids",
     "type": "IPTV",
     "manifest": "https://api.viulk.xyz/api/api/client/v1/default/users/69/live/channels/babytv"
@@ -352,6 +402,7 @@
   {
     "id": "disneyjr",
     "channel": "Disney Jr",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/23053?accessKey=WkVjNWNscFhORDBLCg==",
     "category": "Kids",
     "type": "IPTV",
     "manifest": "https://api.viulk.xyz/api/api/client/v1/default/users/69/live/channels/disneyjr"
@@ -359,6 +410,7 @@
   {
     "id": "nickjr",
     "channel": "Nick Jr",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/13854?accessKey=WkVjNWNscFhORDBLCg==",
     "category": "Kids",
     "type": "IPTV",
     "manifest": "https://api.viulk.xyz/api/api/client/v1/default/users/69/live/channels/nickjr"
@@ -366,6 +418,7 @@
   {
     "id": "moonbug",
     "channel": "Moonbug",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/102016?accessKey=WkVjNWNscFhORDBLCg==",
     "category": "Kids",
     "type": "IPTV",
     "manifest": "https://api.viulk.xyz/api/api/client/v1/default/users/69/live/channels/moonbug"
@@ -373,6 +426,7 @@
   {
     "id": "pogo",
     "channel": "Pogo",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/47359?accessKey=WkVjNWNscFhORDBLCg==",
     "category": "Kids",
     "type": "IPTV",
     "manifest": "https://api.viulk.xyz/api/api/client/v1/default/users/69/live/channels/pogo"
@@ -380,6 +434,7 @@
   {
     "id": "animalplanet",
     "channel": "Animal Planet",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/14185?accessKey=WkVjNWNscFhORDBLCg==",
     "category": "Other",
     "type": "IPTV",
     "manifest": "https://api.viulk.xyz/api/api/client/v1/default/users/69/live/channels/animalplanet"
@@ -387,6 +442,7 @@
   {
     "id": "discovery",
     "channel": "Discovery",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/23044?accessKey=WkVjNWNscFhORDBLCg==",
     "category": "Other",
     "type": "IPTV",
     "manifest": "https://api.viulk.xyz/api/api/client/v1/default/users/69/live/channels/discovery"
@@ -394,6 +450,7 @@
   {
     "id": "discoveryscience",
     "channel": "Discovery Science",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/23072?accessKey=WkVjNWNscFhORDBLCg==",
     "category": "Other",
     "type": "IPTV",
     "manifest": "https://api.viulk.xyz/api/api/client/v1/default/users/69/live/channels/discoveryscience"
@@ -401,6 +458,7 @@
   {
     "id": "tlc",
     "channel": "TLC",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/22784?accessKey=WkVjNWNscFhORDBLCg==",
     "category": "Other",
     "type": "IPTV",
     "manifest": "https://api.viulk.xyz/api/api/client/v1/default/users/69/live/channels/tlc"
@@ -408,6 +466,7 @@
   {
     "id": "natgeo",
     "channel": "National Geographic",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/22307?accessKey=WkVjNWNscFhORDBLCg==",
     "category": "Other",
     "type": "IPTV",
     "manifest": "https://api.viulk.xyz/api/api/client/v1/default/users/69/live/channels/natgeo"
@@ -415,6 +474,7 @@
   {
     "id": "natgeowild",
     "channel": "Nat Geo Wild",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/23043?accessKey=WkVjNWNscFhORDBLCg==",
     "category": "Other",
     "type": "IPTV",
     "manifest": "https://api.viulk.xyz/api/api/client/v1/default/users/69/live/channels/natgeowild"
@@ -422,6 +482,7 @@
   {
     "id": "raiitalia",
     "channel": "Rai Italia",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/23071?accessKey=WkVjNWNscFhORDBLCg==",
     "category": "Other",
     "type": "IPTV",
     "manifest": "https://api.viulk.xyz/api/api/client/v1/default/users/69/live/channels/raiitalia"
@@ -429,6 +490,7 @@
   {
     "id": "phoenixinfo",
     "channel": "Phoenix Info News",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/24073?accessKey=WkVjNWNscFhORDBLCg==",
     "category": "News",
     "type": "IPTV",
     "manifest": "https://api.viulk.xyz/api/api/client/v1/default/users/69/live/channels/phoenixinfo"
@@ -436,6 +498,7 @@
   {
     "id": "tv5monde",
     "channel": "TV5 Monde Asie",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/24070?accessKey=WkVjNWNscFhORDBLCg==",
     "category": "Other",
     "type": "IPTV",
     "manifest": "https://api.viulk.xyz/api/api/client/v1/default/users/69/live/channels/tv5monde"
