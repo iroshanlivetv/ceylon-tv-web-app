@@ -83,16 +83,15 @@
     "isLive": true,
     "manifest": "https://cdn.livestreaminfo.com/live/yToCCmhmNKkWaXku/576p.m3u8"
   },
-{
-  "id": "Animal Planet",
-  "channel": "AnimalPlanet",
-  "channelImage": "...",
-  "type": "IPTV",
-  "epgID": "2",
-  "category": "International",
-  "manifest": "https://cdn.livestreaminfo.com/live/7M3Q8X2K9A4ZD/master.m3u8",
-},
-    
+  {
+    "id": "Animal Planet",
+    "channel": "AnimalPlanet",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/14185?accessKey=WkVjNWNscFhORDBLCg==",
+    "type": "IPTV",
+    "epgID": "2",
+    "category": "International",
+    "manifest": "https://cdn.livestreaminfo.com/live/7M3Q8X2K9A4ZD/master.m3u8"
+  },
   {
     "id": "Ada Derana 24",
     "channel": "Ada Derana 24",
