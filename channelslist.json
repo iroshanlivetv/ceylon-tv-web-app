@@ -90,8 +90,7 @@
     "type": "IPTV",
     "epgID": "2",
     "category": "International",
-    "manifest": "https://cdn.livestreaminfo.com/live/9F3K2A7D8M1QX-dash/manifest.mpd",
-    "license": "https://peotvdrm.ceyloniptv.workers.dev/license?key=9F3K2A7D8M1QX"
+    "manifest": "https://cdn.livestreaminfo.com/live/7M3Q8X2K9A4ZD/master.m3u8",
   }, 
     
   {
