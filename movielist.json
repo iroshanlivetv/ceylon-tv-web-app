@@ -1,5 +1,15 @@
 [
  {
+
+"id": "agilan",
+    "type": "Sinhal",
+    "category": "Action",
+    "title": "Soorya",
+    "movie_year": 2025,
+    "thumbnail": "https://iili.io/BjJBql4.jpg",
+    "manifest": "https://api.viulk.xyz/api/api/client/v1/default/users/912988/vod/movies/nm_soorya"
+  },
+
     "id": "agilan",
     "type": "Tamil",
     "category": "Drama",
