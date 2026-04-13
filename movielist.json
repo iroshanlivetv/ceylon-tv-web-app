@@ -1,7 +1,6 @@
 [
- {
-
-"id": "agilan",
+  {
+    "id": "soorya",
     "type": "Sinhal",
     "category": "Action",
     "title": "Soorya",
@@ -9,7 +8,7 @@
     "thumbnail": "https://iili.io/BjJBql4.jpg",
     "manifest": "https://api.viulk.xyz/api/api/client/v1/default/users/912988/vod/movies/nm_soorya"
   },
-
+  {
     "id": "agilan",
     "type": "Tamil",
     "category": "Drama",
@@ -18,7 +17,7 @@
     "thumbnail": "https://api.viulk.xyz/api/api/client/v1/global/images/170184?accessKey=WkVjNWNscFhORDBLCg==",
     "manifest": "https://api.viulk.xyz/api/api/client/v1/default/users/912988/vod/movies/nm_agilan"
   },
- {
+  {
     "id": "lisaa",
     "type": "Tamil",
     "category": "Horror",
@@ -36,7 +35,7 @@
     "thumbnail": "https://api.viulk.xyz/api/api/client/v1/global/images/681349?accessKey=WkVjNWNscFhORDBLCg==",
     "manifest": "https://api.viulk.xyz/api/api/client/v1/default/users/912988/vod/movies/nm_yashodara"
   },
- {
+  {
     "id": "ahasin_aa_ape_teacher",
     "type": "Sinhala",
     "category": "Local",
@@ -90,7 +89,7 @@
     "thumbnail": "https://api.viulk.xyz/api/api/client/v1/global/images/720831?accessKey=WkVjNWNscFhORDBLCg==",
     "manifest": "https://api.viulk.xyz/api/api/client/v1/default/users/912988/vod/movies/nm_a_level"
   },
-{
+  {
     "id": "1970_love_story",
     "type": "Movies",
     "category": "Local",
@@ -99,7 +98,6 @@
     "thumbnail": "https://api1.viu.lk/api/client/v1/global/images/153114?accessKey=WkVjNWNscFhORDBLCg==",
     "manifest": "https://api.viulk.xyz/api/api/client/v1/default/users/912988/vod/movies/nm_1970_love_story"
   },
-
   {
     "id": "sari_guppy",
     "type": "Movies",
